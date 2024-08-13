@@ -12,7 +12,7 @@ Software Engineering is a field that integrates principles from engineering and 
 It involves a structured, disciplined, and measurable approach to the design, creation, operation, and upkeep of software. 
 The primary objective of software engineering is to produce software that is dependable, efficient, scalable, and aligned with user needs.
 
-# Significance in the Technology Sector:
+## Significance in the Technology Sector:
 
 **Quality Assurance:** Software engineering ensures that software is developed with a high standard of quality, 
 reducing bugs and errors that could negatively impact user experience or lead to system failures.
@@ -39,11 +39,13 @@ In conclusion, software engineering is crucial for creating reliable, secure, an
 which forms the foundation of much of the modern technology industry. 
 It enables organizations to develop systems that are not only functional but also scalable and maintainable over time, ensuring their long-term success.
 
-# <-----------------------------------------------------------------------------------------------|
+
 
 
 # Identify and describe at least three key milestones in the evolution of software engineering.
-Answer: 
+*Answer:*
+
+
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
