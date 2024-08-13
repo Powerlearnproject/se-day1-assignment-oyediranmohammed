@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 # Explain what software engineering is and discuss its importance in the technology industry.
 Answer:
-# |----------------------------------------------------------------------------------------------------------------------->
+# |------------------------------------------------------------------------>
 
 # Software Engineering Definition: 
 Software Engineering is a field that integrates principles from engineering and computer science to develop, maintain, and manage software systems. 
